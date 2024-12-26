@@ -5,8 +5,8 @@ This is a Photography page
 
 using - html , css.
 
-google font
+google font ,
 
-font-awesome
-stylesheet 
+font-awesome ,
+stylesheet  ,
 image 
